@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "nome": "Guitarra elétrica",
+      "marca": "Fender",
+      "categoria": "Instrumentos musicais",
+      "preço": 5.000,
+      "quantidadeEmEstoque": 10,
+      "disponívelParaProntaEntrega": true
+    },
+    {
+      "id": 2,
+      "nome": "Bateria acústica",
+      "marca": "Yamaha",
+      "categoria": "Instrumentos musicais",
+      "preço": 3.000,
+      "quantidadeEmEstoque": 5,
+      "disponívelParaProntaEntrega": false
+    },
+    {
+      "id": 3,
+      "nome": "Microfone condensador",
+      "marca": "Shure",
+      "categoria": "Equipamentos de áudio",
+      "preço": 2.000,
+      "quantidadeEmEstoque": 20,
+      "disponívelParaProntaEntrega": true
+    }
+  ]
+  
